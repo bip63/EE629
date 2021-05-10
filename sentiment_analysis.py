@@ -1,3 +1,5 @@
+# The source code used to build this project can be found here: https://github.com/vprusso/youtube_tutorials/tree/master/twitter_python
+
 from tweepy import API 
 from tweepy import Cursor
 from tweepy.streaming import StreamListener
